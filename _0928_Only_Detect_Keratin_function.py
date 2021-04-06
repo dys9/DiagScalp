@@ -332,8 +332,8 @@ def keratinCalc(result, mask):
 
 
 
-os.chdir("D:/이대현/릴리커버/Archive 2/dendong")
-os.chdir("D:/이대현/릴리커버/Archive 2/홍조")
+os.chdir("D:/dendong")
+os.chdir("D:/홍조")
 source = 'test13.bmp'
     # _______________________________________________________
 img = cv2.imread(source)
